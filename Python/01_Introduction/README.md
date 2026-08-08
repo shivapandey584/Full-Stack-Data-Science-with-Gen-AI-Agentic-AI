@@ -1353,7 +1353,7 @@ print("Full Stack Data Science with Gen AI & Agentic AI")
 
 ```python
 print("My name is shiva")
-print("I am a Bsc.student)
+print("I am a Bsc.student")
 print("I am learning Python")
 ```
 
